@@ -13,7 +13,7 @@ public class Aula09B_ClasseScanner {
 		meuCarro.cor = teclado.nextLine();
 
         System.out.println("Digite o ano do carro");
-        meuCarro.ano = teclado.netInt();
+        meuCarro.ano = teclado.nextInt();
 
         System.out.println("\n---Carro cadastrado com SUcesso---");
         System.out.println("Modelo: " + meuCarro.modelo);
