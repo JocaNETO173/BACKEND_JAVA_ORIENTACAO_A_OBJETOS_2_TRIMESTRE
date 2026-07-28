@@ -18,10 +18,11 @@ case valor-variavel:
 case valor-variavel2:
   outro
   break;
-  -
-  -
-  -
-  -
+_
+_
+_
+_
+_
 }
 
 Do While executa uma vez antes de verificar a condição de loop
