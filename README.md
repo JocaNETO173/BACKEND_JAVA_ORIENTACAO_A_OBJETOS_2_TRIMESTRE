@@ -33,9 +33,16 @@ _
 System.out.prinf(); // print com formatação
 
 %s (formata um local para uma string)
+
 %d (formata para valores)
+
 %f (formata para floats)
+
 %.2f (formata float para 2 casas decimais)
+
 %05d (vai escrever cinco dígitos de 0 e substituir as casas pelo valor)
+
 %, (adiciona vírgulas em casas milhares)
+
 %n quebra de linha
+
