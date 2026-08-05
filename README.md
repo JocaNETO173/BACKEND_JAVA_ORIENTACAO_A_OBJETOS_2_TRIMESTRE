@@ -46,3 +46,12 @@ System.out.prinf(); // print com formatação
 
 %n quebra de linha
 
+%-(número)(formatacao) (faz um número específico de espaços na direita)
+
+%(número)(formatacao) (faz espaços na esquerda)
+
+%b (formata para booleano)
+
+%c (especifica que este local só imprimirá um caracter)
+
+
